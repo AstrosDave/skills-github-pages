@@ -4,7 +4,7 @@ title: Welcome to my blog
 # David Menezes
 
 Welcome to my professional portfolio!  
-I am a **Mechanical Engineer** with a concentration in **Aerospace Engineering**, graduating from the **University of Connecticut** in Winter 2024. With a current GPA of **3.444**, I am passionate about **design, manufacturing, and propulsion systems**.
+I am a **Physics Major** with a concentration in **Astrophysics**, graduating from the **University of Connecticut** in Winter 2025. With a current GPA of **3.3**, I am passionate about **problem solving, writing/reading, and research**.
 
 ---
 
@@ -35,7 +35,7 @@ I have worked with companies like **Ebmpapst** and led a **senior design project
 
 ## 📬 Contact
 
-- 📧 **Email:** [andrew.miele02@outlook.com](mailto:andrew.miele02@outlook.com)  
+- 📧 **Email:** [david.menezes@uconn.edu](david.menezes@uconn.edu)  
 - 📞 **Phone:** (203) 690-2180  
 - 📍 **Location:** Westport, CT  
 
