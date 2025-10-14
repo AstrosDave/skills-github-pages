@@ -1,8 +1,10 @@
 ---
 title: Home Page
 ---
+---
 title: "Mapping Quasars with Light"
 permalink: /mapping-quasars-with-light/
+---
 ---
 title: "When Classical Meets Quantum"
 permalink: /when-classical-meets-quantum/
