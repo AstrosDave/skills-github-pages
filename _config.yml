@@ -3,4 +3,12 @@ title: David Menezes Professional Portfolio
 author: David M. Menezes
 description: My personal webpage!
 
+nav:
+  - title: "Home"
+    url: /
+  - title: "Photometric RM"
+    url: /mapping-quasars-with-light/
+  - title: "Quantum Dynamics"
+    url: /when-classical-meets-quantum/
+
 
