@@ -2,12 +2,11 @@ theme: minima
 title: David Menezes Professional Portfolio
 author: David M. Menezes
 description: My personal webpage!
+header_pages:
+  - index.md
+  - 2025-10-01-First-Blog-Post.md
+  - 2025-10-01-Current-Research.md
 
-nav:
-  - title: "Photometric RM"
-    url: https://astrosdave.github.io/Davids-Professional-Portfolio/2025/10/08/Current-Research.html
-  - title: "Quantum Dynamics"
-    url: https://astrosdave.github.io/Davids-Professional-Portfolio/2025/10/01/First-Blog-Post.html
 
 
 
