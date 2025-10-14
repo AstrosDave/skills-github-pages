@@ -1,11 +1,9 @@
 ---
 title: Home Page
 ---
-layout: page
 title: "Mapping Quasars with Light"
 permalink: /mapping-quasars-with-light/
 ---
-layout: page
 title: "When Classical Meets Quantum"
 permalink: /when-classical-meets-quantum/
 ---
