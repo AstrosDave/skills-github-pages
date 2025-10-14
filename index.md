@@ -36,8 +36,8 @@ I have worked with companies like **Ebmpapst** and led a **senior design project
 ## 📬 Contact
 
 - 📧 **Email:** [david.menezes@uconn.edu](david.menezes@uconn.edu)  
-- 📞 **Phone:** (203) 690-2180  
-- 📍 **Location:** Westport, CT  
+- 📞 **Phone:** (954) 937-6258  
+- 📍 **Location:** Swampscott, MA  
 
 ---
 
