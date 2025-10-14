@@ -4,11 +4,10 @@ author: David M. Menezes
 description: My personal webpage!
 
 nav:
-  - title: "Home"
-    url: /
   - title: "Photometric RM"
-    url: /mapping-quasars-with-light/
+    url: https://astrosdave.github.io/Davids-Professional-Portfolio/2025/10/08/Current-Research.html
   - title: "Quantum Dynamics"
-    url: /when-classical-meets-quantum/
+    url: https://astrosdave.github.io/Davids-Professional-Portfolio/2025/10/01/First-Blog-Post.html
+
 
 
