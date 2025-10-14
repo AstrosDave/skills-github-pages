@@ -1,7 +1,7 @@
 ---
 title: Home Page
 ---
-# David Menezes
+# **David Menezes**
 
 Welcome to my professional portfolio!  
 I am a **Physics Major** with a concentration in **Astrophysics**, graduating from the **University of Connecticut** in Winter 2025. With a current GPA of **3.3**, I am passionate about **problem solving, writing/reading, and research**.
