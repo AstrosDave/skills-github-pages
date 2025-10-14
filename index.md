@@ -71,10 +71,6 @@ Designed lessons and labs to prepare underrepresented incoming STEM students for
 
 ---
 
-> 💬 *“Curiosity drives discovery — and I’m always seeking new ways to bridge theory, computation, and the cosmos.”*
-
----
-
 ## 📬 Contact
 
 - 📧 **Email:** [david.menezes@uconn.edu](david.menezes@uconn.edu)  
@@ -83,5 +79,4 @@ Designed lessons and labs to prepare underrepresented incoming STEM students for
 
 ---
 
-💡 *Feel free to explore my portfolio and reach out for collaboration or opportunities!*
-
+> 💬 *“Curiosity drives discovery — and I’m always seeking new ways to bridge theory, computation, and the cosmos.”*
